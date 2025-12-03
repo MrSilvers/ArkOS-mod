@@ -1,2 +1,2 @@
 # ArkOS-mod
-for ArkOS modifacation version
+for ArkOS modification version
