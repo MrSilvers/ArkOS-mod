@@ -13,6 +13,8 @@
 # numid=3,iface=MIXER,name='Playback Volume'
 # numid=4,iface=MIXER,name='Record Volume'
 
+sudo -s
+
 CARD=0
 CTL_NUMID=1
 
