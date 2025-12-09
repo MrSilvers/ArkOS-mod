@@ -1,5 +1,5 @@
 # ArkOS-mod
-for ArkOS modification version
+for ArkOS modification version, it support Linux XFCE desktop env, you can experience linux for r36s-clone. enjoy it now!
 
 ## QJoyPad Control Scheme
 
